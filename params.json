@@ -1,6 +1,0 @@
-{
-  "name": "ScalacX10",
-  "tagline": "Musings on making ScalaC 10 times faster.",
-  "body": "### Welcome to my thoughts on making the Scala compiler scarily fast",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
